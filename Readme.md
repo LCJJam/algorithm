@@ -2,7 +2,7 @@
 
 정렬 알고리즘은 데이터를 특정 순서대로 나열하기 위한 알고리즘입니다. 대표적인 정렬 알고리즘에는 **버블 정렬**, **선택 정렬**, **삽입 정렬**, **퀵 정렬**, **병합 정렬** 등이 있으며, 각 알고리즘은 성능과 적용 분야에 따라 다르게 사용됩니다.
 
-![sorted.png](src%2Fimg%2Fsorted.png)
+![Sorted Img.gif](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bPpvELo9_QqQsDz7CSbwXQ.gif)
 
 ## 1. 버블 정렬 (Bubble Sort)
 
