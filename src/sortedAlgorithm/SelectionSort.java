@@ -1,4 +1,4 @@
-package algorithm;
+package sortedAlgorithm;
 
 public class SelectionSort {
 

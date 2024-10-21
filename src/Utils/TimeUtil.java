@@ -1,4 +1,4 @@
-package sortedAlgorithm;
+package Utils;
 
 public class TimeUtil {
 	public static long measureTime(Runnable task) {
